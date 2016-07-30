@@ -1,7 +1,7 @@
 
 /**
  *
- * 使用const 保护数据
+ * 使1用const 保护数据
  */
 
 #include <iostream>
